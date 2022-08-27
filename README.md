@@ -5,20 +5,26 @@ Two different GAN architectures are implemented to try to open closed eyes in ph
 
 ## Example Output:
 Exemplar GAN [1]
-![Example output from Exemplar GAN](Reference Images.png)
+<br>
+<p align="center">
+  <img src="https://github.com/aenzlodi/Eye-Opening-GANs/blob/main/Reference%20Images.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 GazeAnimation [2]
-![Example output from GazeAnimation GAN](4.gif)
+<br>
+<p align="center">
+  <img src="https://github.com/aenzlodi/Eye-Opening-GANs/blob/main/4.gif?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ## Requirements
-imageio
-scikit-image
-tensorflow-gpu
-opencv-python
-scipy
-tf_slim
-setproctitle
-pandas
+- imageio
+- scikit-image
+- tensorflow-gpu
+- opencv-python
+- scipy
+- tf_slim
+- setproctitle
+- pandas
 
 ## References
 [1] Brian Dolhansky and Cristian Canton Ferrer. 2018. Eye in-painting with exemplar generative adversarial networks. In Proceedings of the IEEE conference on computer vision and pattern recognition. 7902–7911.
