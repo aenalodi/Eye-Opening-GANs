@@ -5,7 +5,7 @@ Two different GAN architectures are implemented to try to open closed eyes in ph
 
 ## Example Output:
 Exemplar GAN [1]
-![Example output from Exemplar GAN](Reference Image.png)
+![Example output from Exemplar GAN](Reference Images.png)
 
 GazeAnimation [2]
 ![Example output from GazeAnimation GAN](4.gif)
